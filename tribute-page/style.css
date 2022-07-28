@@ -51,7 +51,10 @@ img{
     margin-bottom: 5px;
 }
 #tribute-info{
-    min-width: 360px;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    height: auto;
 }
 a{
     color:black;
